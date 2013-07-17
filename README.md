@@ -1,4 +1,4 @@
-test-github
+Test-github
 ===========
 
 test github capabilities
